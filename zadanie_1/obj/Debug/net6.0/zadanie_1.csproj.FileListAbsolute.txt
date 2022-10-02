@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\bin\Debug\net6.0\zadanie_1.exe
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\bin\Debug\net6.0\zadanie_1.deps.json
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\bin\Debug\net6.0\zadanie_1.runtimeconfig.json
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\bin\Debug\net6.0\zadanie_1.dll
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\bin\Debug\net6.0\zadanie_1.pdb
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.dll
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\refint\zadanie_1.dll
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.pdb
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\zadanie_1.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\domashka_1\zadanie_1\obj\Debug\net6.0\ref\zadanie_1.dll
